@@ -224,7 +224,7 @@ $ chmod -R ugo+rwx cms
 
 If successful, you can browse to the start page of the new React App, which will look like below:
 
-![React App Screen Shot](react_app_screen_shot.png)
+[![React App Screen Shot](react_app_screen_shot.png)](https://github.com/vanHeemstraSystems/requirements-engineering-headstart/issues/1#issue-1275992033)
 
 http://localhost:8080
 
