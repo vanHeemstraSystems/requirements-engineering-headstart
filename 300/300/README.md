@@ -100,6 +100,6 @@ $ docker-compose --file docker-compose.prod.yml --project-name movie-as-code-pro
 
 If successful, browse to http://localhost (***note***: 80 is the default port for HTTP, and therefore not required to be added to the hostname) to see the production version of the app.
 
-![Screenshot 2021-10-19 at 16 00 17](https://user-images.githubusercontent.com/1499433/137925862-44eb5dee-8224-4811-89d7-ae9396659bdd.png)
+![138059887-319fd743-228e-4634-9d57-8e55e9c5e5ba](https://user-images.githubusercontent.com/1499433/174472736-838caac3-8420-4c9d-95e0-5db7b9ee2450.png)
 
 http://localhost
