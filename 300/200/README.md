@@ -129,7 +129,7 @@ $ docker-compose --file docker-compose.dev.yml --project-name movie-as-code-dev 
 
 If successful, you can browse to the start page of the new React App, which will look like below:
 
-![Screenshot 2021-10-19 at 13 07 46](https://user-images.githubusercontent.com/1499433/137897955-908a2483-66c2-4ab8-a22a-a8a06ca6b325.png)
+![138059887-319fd743-228e-4634-9d57-8e55e9c5e5ba](https://user-images.githubusercontent.com/1499433/174472736-838caac3-8420-4c9d-95e0-5db7b9ee2450.png)
 
 http://localhost:8080
 
