@@ -20,7 +20,7 @@ Collections of Strapi in MongoDB for Development
 
 You should be able to visit the ```admin``` panel of your project: http://localhost:1337/admin.
 
-![Screenshot 2021-11-17 at 19 16 29](https://user-images.githubusercontent.com/1499433/142258921-abf0ff7d-1fb6-43de-b5e4-e0c515921014.png)
+![142258921-abf0ff7d-1fb6-43de-b5e4-e0c515921014](https://user-images.githubusercontent.com/1499433/174473094-50de0e5f-3a35-4e59-bf55-09f89fcf0955.png)
 
 Add your first user from the registration page.
 
