@@ -36,7 +36,6 @@ process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
 // Source https://stackabuse.com/making-http-requests-in-node-js-with-node-fetch/
 // Source https://stackoverflow.com/questions/3905126/how-to-use-http-client-in-node-js-if-there-is-basic-authorization
 
-// api url
 const host = process.env.JIRA_HOST;
 const rest_url = host + process.env.JIRA_REST;
 const username = process.env.JIRA_USERNAME;
