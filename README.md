@@ -1,5 +1,5 @@
-requirements-engineering-headstart
-# Requirements Engineering - Headstart
+requirements-management
+# Requirements Management
 
 Based on "Force-Directed Graphs" at https://www.amcharts.com/docs/v5/charts/hierarchy/force-directed/ 
 
