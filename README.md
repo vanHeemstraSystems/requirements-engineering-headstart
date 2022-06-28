@@ -13,6 +13,10 @@ Based on "How to run a Strapi Dev Stack with Docker Compose" at https://strapi.i
 
 Based on "Dockerizing a React App" at https://mherman.org/blog/dockerizing-a-react-app/
 
+Companion repository of "Requirements Management Graphical User Interface (GUI)" at https://github.com/vanHeemstraSystems/requirements-management-gui
+
+This repository contains the backend of the Requirements Management.
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
